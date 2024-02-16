@@ -72,6 +72,7 @@ env/
 venv/
 ENV/
 .envs/.prod/
+.venv/
 
 # Rope project settings
 .ropeproject
